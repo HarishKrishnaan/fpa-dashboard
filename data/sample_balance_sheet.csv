@@ -1,0 +1,10 @@
+as_of_date,section,line_item,amount
+2026-04-30,Current Asset,Cash,920000
+2026-04-30,Current Asset,Accounts Receivable,310000
+2026-04-30,Current Asset,Prepaid Expenses,45000
+2026-04-30,Noncurrent Asset,Fixed Assets,515000
+2026-04-30,Current Liability,Accounts Payable,185000
+2026-04-30,Current Liability,Accrued Expenses,120000
+2026-04-30,Noncurrent Liability,Long-Term Debt,425000
+2026-04-30,Equity,Common Stock,400000
+2026-04-30,Equity,Retained Earnings,660000

@@ -1,0 +1,133 @@
+month,section,account,department,amount
+2026-01-01,Revenue,Product Revenue,Sales,260000.0
+2026-01-01,Revenue,Services Revenue,Sales,90000.0
+2026-01-01,COGS,Cloud Hosting,Engineering,63000.0
+2026-01-01,COGS,Customer Support Delivery,Support,35000.0
+2026-01-01,Operating Expense,Salaries & Wages,G&A,128000.0
+2026-01-01,Operating Expense,Marketing Programs,Marketing,42000.0
+2026-01-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-01-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-01-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-01-01,Other Expense,Interest Expense,Finance,5500.0
+2026-01-01,Tax,Income Tax Expense,Finance,6615.0
+2026-02-01,Revenue,Product Revenue,Sales,266500.0
+2026-02-01,Revenue,Services Revenue,Sales,91350.0
+2026-02-01,COGS,Cloud Hosting,Engineering,64413.0
+2026-02-01,COGS,Customer Support Delivery,Support,35785.0
+2026-02-01,Operating Expense,Salaries & Wages,G&A,128000.0
+2026-02-01,Operating Expense,Marketing Programs,Marketing,42000.0
+2026-02-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-02-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-02-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-02-01,Other Expense,Interest Expense,Finance,5500.0
+2026-02-01,Tax,Income Tax Expense,Finance,7801.92
+2026-03-01,Revenue,Product Revenue,Sales,273162.5
+2026-03-01,Revenue,Services Revenue,Sales,92720.25
+2026-03-01,COGS,Cloud Hosting,Engineering,65858.9
+2026-03-01,COGS,Customer Support Delivery,Support,36588.28
+2026-03-01,Operating Expense,Salaries & Wages,G&A,128000.0
+2026-03-01,Operating Expense,Marketing Programs,Marketing,52000.0
+2026-03-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-03-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-03-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-03-01,Other Expense,Interest Expense,Finance,5500.0
+2026-03-01,Tax,Income Tax Expense,Finance,9016.47
+2026-04-01,Revenue,Product Revenue,Sales,279991.56
+2026-04-01,Revenue,Services Revenue,Sales,94111.05
+2026-04-01,COGS,Cloud Hosting,Engineering,67338.47
+2026-04-01,COGS,Customer Support Delivery,Support,37410.26
+2026-04-01,Operating Expense,Salaries & Wages,G&A,128000.0
+2026-04-01,Operating Expense,Marketing Programs,Marketing,52000.0
+2026-04-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-04-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-04-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-04-01,Other Expense,Interest Expense,Finance,5500.0
+2026-04-01,Tax,Income Tax Expense,Finance,10259.32
+2026-05-01,Revenue,Product Revenue,Sales,286991.35
+2026-05-01,Revenue,Services Revenue,Sales,95522.72
+2026-05-01,COGS,Cloud Hosting,Engineering,68852.53
+2026-05-01,COGS,Customer Support Delivery,Support,38251.41
+2026-05-01,Operating Expense,Salaries & Wages,G&A,128000.0
+2026-05-01,Operating Expense,Marketing Programs,Marketing,42000.0
+2026-05-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-05-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-05-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-05-01,Other Expense,Interest Expense,Finance,5500.0
+2026-05-01,Tax,Income Tax Expense,Finance,11531.13
+2026-06-01,Revenue,Product Revenue,Sales,294166.14
+2026-06-01,Revenue,Services Revenue,Sales,96955.56
+2026-06-01,COGS,Cloud Hosting,Engineering,70401.91
+2026-06-01,COGS,Customer Support Delivery,Support,39112.17
+2026-06-01,Operating Expense,Salaries & Wages,G&A,128000.0
+2026-06-01,Operating Expense,Marketing Programs,Marketing,42000.0
+2026-06-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-06-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-06-01,Operating Expense,Travel & Meals,Sales,17000.0
+2026-06-01,Other Expense,Interest Expense,Finance,5500.0
+2026-06-01,Tax,Income Tax Expense,Finance,12832.6
+2026-07-01,Revenue,Product Revenue,Sales,301520.29
+2026-07-01,Revenue,Services Revenue,Sales,98409.89
+2026-07-01,COGS,Cloud Hosting,Engineering,71987.43
+2026-07-01,COGS,Customer Support Delivery,Support,39993.02
+2026-07-01,Operating Expense,Salaries & Wages,G&A,133000.0
+2026-07-01,Operating Expense,Marketing Programs,Marketing,42000.0
+2026-07-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-07-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-07-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-07-01,Other Expense,Interest Expense,Finance,5500.0
+2026-07-01,Tax,Income Tax Expense,Finance,14164.44
+2026-08-01,Revenue,Product Revenue,Sales,309058.3
+2026-08-01,Revenue,Services Revenue,Sales,99886.04
+2026-08-01,COGS,Cloud Hosting,Engineering,73609.98
+2026-08-01,COGS,Customer Support Delivery,Support,40894.43
+2026-08-01,Operating Expense,Salaries & Wages,G&A,133000.0
+2026-08-01,Operating Expense,Marketing Programs,Marketing,42000.0
+2026-08-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-08-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-08-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-08-01,Other Expense,Interest Expense,Finance,5500.0
+2026-08-01,Tax,Income Tax Expense,Finance,15527.38
+2026-09-01,Revenue,Product Revenue,Sales,316784.75
+2026-09-01,Revenue,Services Revenue,Sales,101384.33
+2026-09-01,COGS,Cloud Hosting,Engineering,75270.44
+2026-09-01,COGS,Customer Support Delivery,Support,41816.91
+2026-09-01,Operating Expense,Salaries & Wages,G&A,133000.0
+2026-09-01,Operating Expense,Marketing Programs,Marketing,52000.0
+2026-09-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-09-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-09-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-09-01,Other Expense,Interest Expense,Finance,5500.0
+2026-09-01,Tax,Income Tax Expense,Finance,16922.17
+2026-10-01,Revenue,Product Revenue,Sales,324704.37
+2026-10-01,Revenue,Services Revenue,Sales,102905.1
+2026-10-01,COGS,Cloud Hosting,Engineering,76969.7
+2026-10-01,COGS,Customer Support Delivery,Support,42760.95
+2026-10-01,Operating Expense,Salaries & Wages,G&A,133000.0
+2026-10-01,Operating Expense,Marketing Programs,Marketing,42000.0
+2026-10-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-10-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-10-01,Operating Expense,Travel & Meals,Sales,17000.0
+2026-10-01,Other Expense,Interest Expense,Finance,5500.0
+2026-10-01,Tax,Income Tax Expense,Finance,18349.55
+2026-11-01,Revenue,Product Revenue,Sales,332821.98
+2026-11-01,Revenue,Services Revenue,Sales,104448.67
+2026-11-01,COGS,Cloud Hosting,Engineering,78708.72
+2026-11-01,COGS,Customer Support Delivery,Support,43727.07
+2026-11-01,Operating Expense,Salaries & Wages,G&A,133000.0
+2026-11-01,Operating Expense,Marketing Programs,Marketing,42000.0
+2026-11-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-11-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-11-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-11-01,Other Expense,Interest Expense,Finance,5500.0
+2026-11-01,Tax,Income Tax Expense,Finance,19810.32
+2026-12-01,Revenue,Product Revenue,Sales,341142.53
+2026-12-01,Revenue,Services Revenue,Sales,106015.4
+2026-12-01,COGS,Cloud Hosting,Engineering,80488.43
+2026-12-01,COGS,Customer Support Delivery,Support,44715.79
+2026-12-01,Operating Expense,Salaries & Wages,G&A,133000.0
+2026-12-01,Operating Expense,Marketing Programs,Marketing,42000.0
+2026-12-01,Operating Expense,Software Tools,Engineering,18000.0
+2026-12-01,Operating Expense,Rent & Office,G&A,15000.0
+2026-12-01,Operating Expense,Travel & Meals,Sales,12000.0
+2026-12-01,Other Expense,Interest Expense,Finance,5500.0
+2026-12-01,Tax,Income Tax Expense,Finance,21305.28
